@@ -1,1 +1,1 @@
-# .github
+# Eclipse Developers Group
